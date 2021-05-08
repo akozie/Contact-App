@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "698415072974",
+    "firebase_url": "https://contactlistapp-db40f-default-rtdb.firebaseio.com",
+    "project_id": "contactlistapp-db40f",
+    "storage_bucket": "contactlistapp-db40f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698415072974:android:9df37735112671007b329f",
+        "android_client_info": {
+          "package_name": "com.decagon.android.sq007"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698415072974-rjoor8n209aqqlut4ij5mr778ehf9mf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF0Tk8edd8XhO0QUFztxvtcSKLxjdHfys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698415072974-rjoor8n209aqqlut4ij5mr778ehf9mf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698415072974:android:51d8483dfcf04b127b329f",
+        "android_client_info": {
+          "package_name": "com.example.uidesignandroidstudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698415072974-rjoor8n209aqqlut4ij5mr778ehf9mf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF0Tk8edd8XhO0QUFztxvtcSKLxjdHfys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698415072974-rjoor8n209aqqlut4ij5mr778ehf9mf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698415072974:android:0eabf816dad993dd7b329f",
+        "android_client_info": {
+          "package_name": "ng.com.jedun.continousintegrationproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698415072974-rjoor8n209aqqlut4ij5mr778ehf9mf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF0Tk8edd8XhO0QUFztxvtcSKLxjdHfys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698415072974-rjoor8n209aqqlut4ij5mr778ehf9mf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
